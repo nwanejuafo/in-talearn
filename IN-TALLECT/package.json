@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "a simple node app",
+  "main": "server.js",
+  "author": "Chima",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
